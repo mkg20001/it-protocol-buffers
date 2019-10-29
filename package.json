@@ -44,5 +44,8 @@
   "bugs": {
     "url": "https://github.com/mkg20001/it-protocol-buffers/issues"
   },
-  "homepage": "https://github.com/mkg20001/it-protocol-buffers#readme"
+  "homepage": "https://github.com/mkg20001/it-protocol-buffers#readme",
+  "directories": {
+    "test": "test"
+  }
 }
