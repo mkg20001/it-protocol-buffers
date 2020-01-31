@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "it-buffer": "^0.1.1",
-    "it-length-prefixed": "^2.0.0"
+    "it-length-prefixed": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
