@@ -1,6 +1,6 @@
 {
   "name": "it-protocol-buffers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Protocol Buffers length-prefixed async-iterator encoder/decoder",
   "main": "index.js",
   "scripts": {
